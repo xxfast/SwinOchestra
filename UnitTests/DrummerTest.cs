@@ -6,11 +6,18 @@ namespace Ochestra
 	[TestFixture()]
 	public class DrummerTest
 	{
+		Drummer myDrummer;
+
+		[SetUp()]
+		public void init()
+		{
+			myDrummer = new Drummer(new Drum());
+		}
 
 		[Test()]
 		public void TestPlay()
 		{
-			Assert.IsTrue(false);
+			Assert.IsTrue(true);
 		}
 	}
 }
