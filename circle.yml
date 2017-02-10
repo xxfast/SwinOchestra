@@ -24,4 +24,4 @@ dependencies:
 test:
     override:
         - xbuild
-        - nunit-console bin/Debug/nunit.framework.dll
+        - nunit-console bin/Debug/Ochestra.exe

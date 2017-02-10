@@ -17,7 +17,7 @@ namespace Ochestra
 		[Test()]
 		public void TestPlay()
 		{
-			Assert.IsTrue(false);
+			Assert.IsTrue(1<0);
 		}
 	}
 }

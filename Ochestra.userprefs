@@ -7,7 +7,7 @@
       <File FileName="Trumpeter.cs" Line="13" Column="69" />
       <File FileName="InstrumentPlayer.cs" Line="28" Column="19" />
       <File FileName="Drummer.cs" Line="24" Column="3" />
-      <File FileName="UnitTests/DrummerTest.cs" Line="16" Column="1" />
+      <File FileName="UnitTests/DrummerTest.cs" Line="7" Column="12" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
