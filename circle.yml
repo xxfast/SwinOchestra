@@ -16,7 +16,7 @@ dependencies:
         - sudo apt-get install -y mono-complete
         - sudo apt-get install -y referenceassemblies-pcl
         - sudo apt-get install -y ca-certificates-mono
-        #- sudo apt-get install -y nunit-console
+        - sudo apt-get install -y nunit-console
 
         - cd packages; wget --no-check-certificate https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
         - mono packages/nuget.exe restore
