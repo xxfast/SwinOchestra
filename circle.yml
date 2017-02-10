@@ -1,0 +1,3 @@
+test:
+  override:
+    - nunit ./UnitTests/DrummerTest.cs --unit-tests
